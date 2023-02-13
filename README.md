@@ -1,6 +1,6 @@
 # First App Posts Vue
 
--[Preview Page](https://firstappvueposts.netlify.app/)
+- [Preview Page](https://firstappvueposts.netlify.app/)
 
 Es mi primera App usando vue, usando componente y el composition API.
 ## Project Setup
